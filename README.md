@@ -2,7 +2,7 @@
 
 ## English 
 
-Fisrt of all is necesarry know what is a Prompt, so a prompt is essentially the instruction or message you give to an artificial intelligence model (or language model) 
+First of all, we need to know what is a Prompt, so a prompt is essentially the instruction or message you give to an artificial intelligence model (or language model) 
 to tell it what to do and how to respond. It can be a question, a description, a command, or a set of rules. Its purpose is to guide the AI's behavior by providing context, objectives, style, and constraints, in order to obtain a specific and coherent result.
 With that in mind, I will be sharing different prompts here for various situations
 
