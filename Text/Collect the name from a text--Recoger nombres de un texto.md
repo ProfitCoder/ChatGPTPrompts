@@ -18,4 +18,5 @@ Prompt para poder coger un texto, y hacer un resumen apuntando los datos de tipo
 -Analiza el siguiente texto y realiza lo siguiente: resume el contenido en un párrafo breve y claro; extrae todas las personas mencionadas indicando nombre y apellidos 
 si aparecen y, si es posible, el rol o relación con el contenido; extrae también todos los lugares mencionados, incluyendo ciudades, países, regiones o espacios 
 específicos. Presenta el resultado con la siguiente estructura: “Resumen: … / Personas mencionadas: … / Lugares mencionados: …”. El texto a analizar es el siguiente: 
-"""AQUÍ PEGARÉ EL TEXTO""".
+
+"PEGAR AQUÍ EL TEXTO"
