@@ -1,4 +1,4 @@
-# ProfitCoder 9:02       19/03/2026
+ProfitCoder 9:02       19/03/2026
 
 ## English
 
