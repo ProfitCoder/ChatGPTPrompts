@@ -7,6 +7,7 @@ I need you to adjust this image so that (how we want the image to be adjusted *)
 improvement. Once finished, I would like to have the option to download it. Thank you.
 
 *-Make sure that people, cars, animals, or landscapes are centered
+
 *-Ensure everything is properly squared/aligned, etc."
 
 ## Spanish
@@ -18,4 +19,5 @@ a no ser que sea a mejor, al acabar quiero que me de la opción de descargar. Gr
 
 
 *-Que este centrada las personas,coche,animales,paisaje
+
 *-Que todo este cuadrado ...etc
