@@ -1,0 +1,10 @@
+-- ProfitCoder      9:06     19/03/2026
+
+"Hola ChatGPT, me gustaria que pudieses hacer una pequeña tarea, a continuación te mando una imagen la cual no esta bien centrada
+necesito que esta imagen, la ajustes de manera que (como queremos que ajuste la imagen *), para ello me gustaria que no cambies ni la calidad ni el colo
+a no ser que sea a mejor, al acabar quiero que me de la opción de descargar. Gracias."
+
+
+
+*-Que este centrada las personas,coche,animales,paisaje
+*-Que todo este cuadrado ...etc
