@@ -2,9 +2,9 @@ ProfitCoder   13:45     20/06/2026
 
 ## English
 
-Hello ChatGPT, I need you to work from the text I am going to provide, whether it is in the form of an image, text, PDF, or any other format.
+"Hello ChatGPT, I need you to work from the text I am going to provide, whether it is in the form of an image, text, PDF, or any other format.
 I need you to create a professional summary that captures all the important data and any relevant information, avoiding unnecessary filler and 
-focusing only on what truly matters.
+focusing only on what truly matters."
 
 ## Spanish
 
