@@ -5,7 +5,7 @@
 
 ---
 
-## 🇬🇧 English
+## English
 
 ## About this repository
 
