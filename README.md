@@ -183,24 +183,11 @@ It is a place to experiment, save useful ideas, build small tools, create apps, 
 ```text
 /
 ├── prompts/
-│   ├── productivity/
-│   ├── coding/
-│   ├── writing/
-│   └── learning/
 │
 ├── apps/
-│   ├── web-apps/
-│   ├── scripts/
-│   └── prototypes/
 │
 ├── experiments/
-│   ├── prompt-engineering/
-│   ├── automation/
-│   └── ai-tests/
 │
 ├── resources/
-│   ├── guides/
-│   ├── templates/
-│   └── notes/
 │
 └── README.md
